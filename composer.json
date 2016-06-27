@@ -1,0 +1,19 @@
+{
+  "name": "glauberkyves/auto-loader-sms-pague-seguro",
+  "description": "Custon autoloader of the libs to producoes r2",
+  "keywords": [
+    "glauberkyves"
+  ],
+  "authors": [
+    {
+      "name": "Glauber Kyves",
+      "email": "glauberkyves@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GlauberKyves\\AutoLoaderSmsFacebbok": ""
+    }
+  },
+  "target-dir": "GlauberKyves/AutoLoaderSmsFacebbok"
+}
