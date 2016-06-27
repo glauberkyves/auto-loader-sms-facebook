@@ -13,14 +13,10 @@
     }
   ],
   "require": {
-    "php": ">=5.4.27",
-    "ext-curl": "*",
-    "lib-curl": "*",
-    "lib-openssl": "*",
-    "lib-libxml": "*"
+    "php": ">=5.4.27"
   },
   "autoload": {
-    "psr-4": {
+    "psr-0": {
       "GlauberKyves\\AutoLoaderSmsFacebbok": ""
     }
   },
