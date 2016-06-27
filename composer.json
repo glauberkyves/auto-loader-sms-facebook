@@ -12,6 +12,13 @@
       "email": "glauberkyves@gmail.com"
     }
   ],
+  "require": {
+    "php": ">=5.4.27",
+    "ext-curl": "*",
+    "lib-curl": "*",
+    "lib-openssl": "*",
+    "lib-libxml": "*"
+  },
   "autoload": {
     "psr-4": {
       "GlauberKyves\\AutoLoaderSmsFacebbok": ""
